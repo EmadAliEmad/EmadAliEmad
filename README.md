@@ -1,4 +1,4 @@
-# Hello, I'm Emad Ali Emad 👋
+# Hello, I'm Emad Ali 👋
 
 Junior Machine Learning Engineer | Data Scientist | Data Analyst
 
