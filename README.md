@@ -9,6 +9,7 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 ## Portfolio
 
 [Explore My Kaggle Portfolio](https://www.kaggle.com/emad3li)
+
 [Explore My Data Science Portfolio](https://www.datascienceportfol.io/emadaliemad375/)
 
 ## Experience
