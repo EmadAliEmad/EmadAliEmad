@@ -4,7 +4,7 @@ Junior Machine Learning Engineer | Data Scientist | Data Analyst
 
 ## Summary
 
-A highly motivated and skilled Junior Machine Learning Engineer and Data Scientist with a strong foundation in AI and cloud computing. I hold a Bachelor's degree in Computer Science and Artificial Intelligence from Helwan University. I have gained practical experience through roles such as a Data Scientist Intern at CORELIA and by participating in the Digital Egypt Builders Initiative (DEBI). My technical expertise includes time series analysis and forecasting, deep learning, machine learning, SQL, cloud computing (Microsoft Azure, AWS), data analysis, Python, Docker and LLMs. I am passionate about leveraging my skills to create impactful solutions in real-world AI applications. I am proficient in both English and Arabic and actively participate in data science communities, mentoring juniors, and continually expanding my knowledge.
+A highly motivated and skilled Junior Machine Learning Engineer and Data Scientist with a strong foundation in AI and cloud computing. I hold a Bachelor's in Computer Science and Artificial Intelligence from Helwan University. I have gained practical experience through roles such as a Data Scientist Intern at CORELIA and by participating in the Digital Egypt Builders Initiative (DEBI). My technical expertise includes time series analysis and forecasting, deep learning, machine learning, SQL, cloud computing (Microsoft Azure, AWS), data analysis, Python, Docker, and LLMs. I am passionate about leveraging my skills to create impactful solutions in real-world AI applications. I am proficient in both English and Arabic and actively participate in data science communities, mentoring juniors, and continually expanding my knowledge.
 
 ## Portfolio
 
@@ -13,7 +13,7 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 ## Experience
 
 *   **Digital Egypt Builders Initiative - DEBI** - Qesm El Zamalek, Cairo, Egypt (January 2024 - Present)
-    *   Participated in a comprehensive scholarship program focusing on Data Science, Artificial Intelligence, and Cloud Computing. The program included coursework on Coursera, Microsoft Azure training, and practical experience via a Data Science Internship at CORELIA.
+    *   Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing. The program included coursework on Coursera, Microsoft Azure training, and practical experience via a Data Science Internship at CORELIA.
 
 *   **Data Scientist Intern** - CORELIA, Cairo, Egypt (July 2024 - October 2024)
     *   Gained hands-on experience in time series analysis and forecasting, deep learning, and applying advanced analytical techniques to solve complex real-world business challenges. Worked on multiple high-impact projects.
@@ -46,32 +46,19 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
     *  Grade: Very Good
     *  Graduation Project: Wind field estimation from Sentinel-1 images using Deep Learning (Grade: A+)
 
-*   **WorldQuant University** - Applied Data Science Lab, Data science (January 2023 - Present)
+*   **WorldQuant University** - Applied Data Science Lab, Data science (January 2023)
 
 ## Licenses & Certifications
 
+*   [Microsoft Azure Data Scientist Associate(DP-100)] - Microsoft Azure (On processing)
 *   [McKinsey Forward Program](https://www.linkedin.com/in/emad-ali-emad-886647199/details/certifications/) - McKinsey & Company (Dec 2024)
 *   [Data Scientist Career Track](https://learn.365datascience.com/profile/emad-ali-emad/) - 365 Data Science (Nov 2024)
 *   [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Nov 2024)
-*   [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/1GQJF3CNAAUG) - Coursera (Sep 2024)
 *   [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Sep 2024)
-*   [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/certificate/PHUS83RAJCQ9) - Coursera (Sep 2024)
 *   [Time Series with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/504918) - DataCamp (Aug 2024)
 *   [Associate Data Scientist in Python Track](https://www.datacamp.com/statement-of-accomplishment/track/484714) - DataCamp (Jun 2024)
 *   [Data Analyst with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/483832) - DataCamp (Jun 2024)
 *   [Azure Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/469913) - DataCamp (May 2024)
-*  [Introduction to Agile Development and Scrum - IBM Badge](https://www.coursera.org/account/accomplishments/certificate/AMRMMC7ZGWGX) - Coursera (Apr 2024)
-*   [Introduction to Image Processing - MathWorks](https://www.coursera.org/account/accomplishments/certificate/AMRMMC7ZGWGX) - Coursera (Apr 2024)
-*   [Managing Machine Learning Projects - Duke](https://www.coursera.org/account/accomplishments/certificate/FFXSNP238GNT) - Coursera (Apr 2024)
-*   [Business Metrics for Data-Driven Companies - Duke](https://www.coursera.org/account/accomplishments/certificate/2FJH45F6RW8H) - Coursera (Mar 2024)
-*   [Cloud Computing Foundations - Duke](https://www.coursera.org/account/accomplishments/certificate/33D2YBU62WT6) - Coursera (Mar 2024)
-*   [Cloud Virtualization, Containers and APIs - Duke](https://www.coursera.org/account/accomplishments/certificate/HJN5SNFEXCF6) - Coursera (Mar 2024)
-*   [MLOps Tools MLflow and Hugging Face - Duke](https://www.coursera.org/account/accomplishments/certificate/3RVAYH68F3GQ) - Coursera (Mar 2024)
-*   [Managing Big Data with MySQL - Duke](https://www.coursera.org/account/accomplishments/certificate/QYY38TWJ5R53) - Coursera (Mar 2024)
-*  [Managing Conflict - From Arizona State University](https://www.coursera.org/account/accomplishments/certificate/F54JTAMUC8XG) - Coursera (Mar 2024)
-*   [Managing Emotions in Times of Uncertainty & Stress - Yale](https://www.coursera.org/account/accomplishments/certificate/JLHZ2JZY9MAC) - Coursera (Mar 2024)
-*   [Python Programming Fundamentals - Duke](https://www.coursera.org/account/accomplishments/certificate/EAFAVR3D6UT7) - Coursera (Feb 2024)
-*  [Scripting with Python and SQL for Data Engineering Duke](https://www.coursera.org/account/accomplishments/certificate/36YV8XJ5E3J2) - Coursera (Feb 2024)
 *   [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/BU8SF6X59GEU) - Coursera (Jan 2024)
 *   [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/PJRY8VGQHNHX) - Coursera (Nov 2023)
 *    [IBM : What is Data Science](https://www.coursera.org/account/accomplishments/certificate/W5EA6EZ9927R) - Coursera (Mar 2023)
@@ -95,4 +82,5 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 *   [LinkedIn](https://www.linkedin.com/in/emad-ali-emad-886647199/)
 *   [GitHub](https://github.com/EmadAliEmad)
 *   [Kaggle](https://www.kaggle.com/emad3li)
-    *  [365 Profile](https://learn.365datascience.com/profile/emad-ali-emad/)
+*  [365 Profile](https://learn.365datascience.com/profile/emad-ali-emad/)
+*  [DataScience portfolio]([https://learn.365datascience.com/profile/emad-ali-emad/](https://www.datascienceportfol.io/emadaliemad375/))
