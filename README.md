@@ -53,8 +53,8 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 ## Licenses & Certifications
 
 *   [Microsoft Azure Data Scientist Associate(DP-100)] - Microsoft Azure (On processing)
-*   [McKinsey Forward Program](https://www.linkedin.com/in/emad-ali-emad-886647199/details/certifications/) - McKinsey & Company (Dec 2024)
-*   [Data Scientist Career Track](https://learn.365datascience.com/profile/emad-ali-emad/) - 365 Data Science (Nov 2024)
+*   [McKinsey Forward Program](https://www.credly.com/badges/f77e5a70-34f3-489f-bcf6-77514900d5b4/linked_in_profile) - McKinsey & Company (Dec 2024)
+*   [Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-CD54F93FC9/) - 365 Data Science (Nov 2024)
 *   [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Nov 2024)
 *   [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Sep 2024)
 *   [Time Series with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/504918) - DataCamp (Aug 2024)
