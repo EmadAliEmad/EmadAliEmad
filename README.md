@@ -56,7 +56,7 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 *   [McKinsey Forward Program](https://www.credly.com/badges/f77e5a70-34f3-489f-bcf6-77514900d5b4/linked_in_profile) - McKinsey & Company (Dec 2024)
 *   [Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-CD54F93FC9/) - 365 Data Science (Nov 2024)
 *   [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Nov 2024)
-*   [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Sep 2024)
+*   [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/1GQJF3CNAAUG) - Coursera (Sep 2024)
 *   [Time Series with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/504918) - DataCamp (Aug 2024)
 *   [Associate Data Scientist in Python Track](https://www.datacamp.com/statement-of-accomplishment/track/484714) - DataCamp (Jun 2024)
 *   [Data Analyst with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/483832) - DataCamp (Jun 2024)
