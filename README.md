@@ -30,7 +30,7 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 2.  **Time Series Forecasting with Yahoo Stock Price**
     *   Developed time series forecasting models using ARIMA, Prophet, and LSTM to predict Yahoo stock prices.
         *  **Skills Used**: Time Series Analysis, Time Series Forecasting, Prophet, LSTM, ARIMA
-    *  [Deployment Demo](https://github.com/EmadAliEmad/Time-Series-Forecasting)
+    *  [Deployment Demo](https://github.com/EmadAliEmad/Yahoo_Stock_Price_Prediction_with_deployment)
 
 3.  **Wind Field Estimation From Sentinel-1 Images Using Deep Learning CNN (Graduation Project)**
     *  Developed a CNN-based model to extract features from SAR images and estimate wind fields, outperforming traditional methods.
@@ -41,6 +41,12 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
     *  Analyzed Netflix's growth and decline in average movie durations using Python and Pandas.
          * **Skills Used**:  Python, Dictionaries & Pandas
     * [GitHub Link](https://github.com/EmadAliEmad/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
+  
+5.  **AGL Machine Operating Time Forecasting**
+    * An application that forecasts the operating time of port terminal machines using time series forecasting.
+    * It provides a REST API to get the predictions and outputs an image with the graphs using Python, FastAPI, pandas, numpy, scikit-learn, matplotlib, and seaborn.
+    *  **Skills Used:** Python, FastAPI, Time Series Forecasting, Machine Learning, REST API, Data Visualization
+    *   [GitHub Link](https://github.com/EmadAliEmad/AGL-machine-operating-time-forecast)
 
 ## Education
 
