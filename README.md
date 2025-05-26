@@ -1,6 +1,6 @@
 # Hello, I'm Emad Ali 👋
 
-Junior Machine Learning Engineer | Data Scientist | Data Analyst
+ML Engineer | Data Scientist | AI Researcher | Data Analyst
 
 ## Summary
 
@@ -59,6 +59,7 @@ A highly motivated and skilled Junior Machine Learning Engineer and Data Scienti
 ## Licenses & Certifications
 
 *   [Microsoft Azure Data Scientist Associate(DP-100)] - Microsoft Azure (On processing)
+*   [Deep Learning for Natural Language Processing with Transformers](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4834cf11-36e9-4def-aebf-bc6e1fdabb6e.pdf)) - Udemy (May 2025)
 *   [McKinsey Forward Program](https://www.credly.com/badges/f77e5a70-34f3-489f-bcf6-77514900d5b4/linked_in_profile) - McKinsey & Company (Dec 2024)
 *   [Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-CD54F93FC9/) - 365 Data Science (Nov 2024)
 *   [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/certificate/9ZZBRGIGGCPH) - Coursera (Nov 2024)
