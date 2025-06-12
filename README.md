@@ -37,27 +37,27 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
 
 ## Top Projects
 
-**Patient Health Analysis**
+* **Patient Health Analysis**
     *   A data analysis project using Power BI and SQL to conduct exploratory analysis on patient health data, identify disease trends, and create insightful dashboards.
     *   **Skills Used:** SQL, MySQL Workbench, Microsoft Power BI
     *   [GitHub Link](https://github.com/EmadAliEmad/Patient-Health-Analysis)
 
-**Time Series Forecasting with Yahoo Stock Price**
+* **Time Series Forecasting with Yahoo Stock Price**
     *   Developed time series forecasting models using ARIMA, Prophet, and LSTM to predict Yahoo stock prices.
         *  **Skills Used**: Time Series Analysis, Time Series Forecasting, Prophet, LSTM, ARIMA
     *  [Deployment Demo](https://github.com/EmadAliEmad/Yahoo_Stock_Price_Prediction_with_deployment)
 
-**Wind Field Estimation From Sentinel-1 Images Using Deep Learning CNN (Graduation Project)**
+* **Wind Field Estimation From Sentinel-1 Images Using Deep Learning CNN (Graduation Project)**
     *  Developed a CNN-based model to extract features from SAR images and estimate wind fields, outperforming traditional methods.
          *  **Skills Used**: Deep Learning, CNN, Computer Vision, Python
     *   [GitHub Link](https://github.com/EmadAliEmad/Graduation_Project)
 
-**Investigating Netflix Movies and Guest Stars in The Office**
+* **Investigating Netflix Movies and Guest Stars in The Office**
     *  Analyzed Netflix's growth and decline in average movie durations using Python and Pandas.
          * **Skills Used**:  Python, Dictionaries & Pandas
     * [GitHub Link](https://github.com/EmadAliEmad/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
   
-**AGL Machine Operating Time Forecasting**
+* **AGL Machine Operating Time Forecasting**
     * An application that forecasts the operating time of port terminal machines using time series forecasting.
     * It provides a REST API to get the predictions and outputs an image with the graphs using Python, FastAPI, pandas, numpy, scikit-learn, matplotlib, and seaborn.
     *  **Skills Used:** Python, FastAPI, Time Series Forecasting, Machine Learning, REST API, Data Visualization
