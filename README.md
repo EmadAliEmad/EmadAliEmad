@@ -37,6 +37,12 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
 
 ## Top Projects
 
+* **BERT Fine-tuning for Movie Sentiment Analysis**
+
+  * Built and fine-tuned a BERT model for binary sentiment classification on IMDB movie reviews. The solution includes a modular NLP pipeline, robust evaluation, and a real-time inference API using FastAPI.
+  * **Skills Used:** BERT, Hugging Face Transformers, TensorFlow, Keras, FastAPI, Pydantic, Loguru, Plotly, REST API, NLP
+  * [GitHub Link](https://github.com/EmadAliEmad/BERT-Fine_tuning-for-Movie-Sentiment-Analysis)
+
 * **Patient Health Analysis**
     *   A data analysis project using Power BI and SQL to conduct exploratory analysis on patient health data, identify disease trends, and create insightful dashboards.
     *   **Skills Used:** SQL, MySQL Workbench, Microsoft Power BI
