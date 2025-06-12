@@ -71,6 +71,12 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
 
 ## Education
 
+* **Ain Shams University** – Master’s Degree (M.Sc.), Artificial Intelligence (Ongoing)
+
+  * Faculty of Computer and Information Sciences
+  * Focus Areas: Machine Learning, Deep Learning, Natural Language Processing, and Generative AI
+  * Expected Graduation: 2026
+
 *   **Helwan University** - Bachelor's degree, Computer Science and Artificial Intelligence (September 2019 - May 2023)
     *  Grade: Very Good
     *  Graduation Project: Wind field estimation from Sentinel-1 images using Deep Learning (Grade: A+)
@@ -96,16 +102,19 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
 *   [Machine Learning with Big Data](https://www.linkedin.com/in/emad-ali-emad-886647199/details/certifications/) - City of Scientific Research and Technological Applications SRTA-City (Feb 2023)
 *   [THE DATA ANALYSIS CHALLENGER TRACK](https://graduation.udacity.com/nd002) - Udacity (Aug 2022)
 
-## Skills
+## 🛠️ Skills
 
-*   **Programming Languages:** Python, Java, C++, C
-*   **Databases:** SQL, MySQL, Microsoft SQL Server
-*   **Data Analysis & Visualization:** Pandas, Numpy, Matplotlib, Power BI
-*   **Machine Learning:** Deep Learning, Neural Networks, Time Series Forecasting, Statistical Algorithms, RNN, LSTM, GRU, Attention Models, CNN, Artificial Neural Networks
-*   **Tools & Technologies:** Docker, Microsoft Azure, Amazon Web Services (AWS), MLOps, MLflow, Hugging Face
-* **Cloud Computing:** Microsoft Azure, Amazon Web Services (AWS)
-*  **Other:** HTML, CSS, JavaScript, Algorithms, Big Data, Data Mining, Data Modeling
-*   **Languages**: Arabic(Advanced), English(Advanced), German(Beginner), Spanish(Beginner), French(Beginner)
+* **Programming Languages:** Python, Java, C++, C
+* **Databases:** SQL, MySQL, Microsoft SQL Server
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+* **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, RNN, LSTM, GRU, CNN, Attention Mechanisms, Time Series Forecasting, Statistical Models, Model Evaluation & Tuning
+* **NLP & LLMs:** Hugging Face Transformers, BERT, Tokenization, Text Classification, Prompt Engineering, RAG (Retrieval-Augmented Generation)
+* **Deployment & MLOps:** FastAPI, Docker, MLflow, RESTful APIs, Uvicorn, Git, GitHub Actions, CI/CD Pipelines
+* **Cloud Computing:** Microsoft Azure, AWS
+* **Tools & Technologies:** VS Code, Google Colab, Jupyter, Scikit-learn, TensorFlow, PyTorch, OpenCV
+* **Web & Scripting:** HTML, CSS, Bash, JSON, YAML
+* **Other:** Algorithms & Data Structures, Big Data, Data Mining, Data Modeling, Software Engineering Best Practices
+* **Languages:** Arabic (Native), English (Fluent), German (Beginner), Spanish (Beginner), French (Beginner)
 
 ## Get in Touch
 
