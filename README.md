@@ -4,7 +4,8 @@ ML Engineer | Data Scientist | AI Researcher | Data Analyst
 
 ## Summary
 
-A highly motivated and skilled Machine Learning Engineer and Data Scientist with a strong foundation in AI and cloud computing. I hold a Bachelor's in Computer Science and Artificial Intelligence from Helwan University. I have gained practical experience through roles such as a Data Scientist Intern at CORELIA and by participating in the Digital Egypt Builders Initiative (DEBI). My technical expertise includes time series analysis and forecasting, deep learning, machine learning, SQL, cloud computing (Microsoft Azure, AWS), data analysis, Python, Docker, and LLMs. I am passionate about leveraging my skills to create impactful solutions in real-world AI applications. I am proficient in both English and Arabic and actively participate in data science communities, mentoring juniors, and continually expanding my knowledge.
+A passionate and results-driven Machine Learning Engineer and Data Scientist with a solid academic foundation in Artificial Intelligence, currently pursuing a Master's degree in AI at Ain Shams University. I hold a Bachelor's in Computer Science and AI from Helwan University and have gained hands-on experience through roles such as a Data Scientist Intern at CORELIA and AI Instructor at Digital Hub. My expertise spans machine learning, deep learning, LLMs, time series forecasting, NLP, and cloud computing (Azure, AWS). I’ve developed and deployed real-world solutions using Python, FastAPI, Docker, and Power BI. With a strong commitment to continuous learning, I actively contribute to the AI community, mentor junior learners, and thrive on building impactful, data-driven solutions. Fluent in both English and Arabic.
+
 
 ## Portfolio
 
@@ -14,35 +15,49 @@ A highly motivated and skilled Machine Learning Engineer and Data Scientist with
 
 ## Experience
 
+* **AI Instructor** – Digital Hub, Cairo, Egypt (June 2025 – Present)
+
+  * Deliver foundational and advanced training sessions in Artificial Intelligence, including machine learning, NLP, and Python for beginners and intermediate learners.
+  * Design and prepare educational materials, hands-on exercises, and project-based learning to help students gain practical AI skills.
+  * Provide mentorship and technical guidance to trainees, supporting their growth in AI and programming.
+  * Collaborate with the academic team to improve curriculum and ensure high-quality learning experiences.
+
+* **Digital Egypt Builders Initiative (DEBI)** – Qesm El Zamalek, Cairo, Egypt (January 2024 – Present)
+
+  * Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing.
+  * Completed industry-certified courses on Coursera, gained Microsoft Azure training, and engaged in practical projects.
+  * Gained applied experience through a Data Science internship at CORELIA, enhancing technical and business acumen.
+
 *   **Digital Egypt Builders Initiative - DEBI** - Qesm El Zamalek, Cairo, Egypt (January 2024 - Present)
-    *   Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing. The program included coursework on Coursera, Microsoft Azure training, and practical experience via a Data Science Internship at CORELIA.
+    *   Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing. 
+    *   The program included coursework on Coursera, Microsoft Azure training, and practical experience via a Data Science Internship at CORELIA.
 
 *   **Data Scientist Intern** - CORELIA, Cairo, Egypt (July 2024 - October 2024)
     *   Gained hands-on experience in time series analysis and forecasting, deep learning, and applying advanced analytical techniques to solve complex real-world business challenges. Worked on multiple high-impact projects.
 
 ## Top Projects
 
-1.  **Patient Health Analysis**
+**Patient Health Analysis**
     *   A data analysis project using Power BI and SQL to conduct exploratory analysis on patient health data, identify disease trends, and create insightful dashboards.
     *   **Skills Used:** SQL, MySQL Workbench, Microsoft Power BI
     *   [GitHub Link](https://github.com/EmadAliEmad/Patient-Health-Analysis)
 
-2.  **Time Series Forecasting with Yahoo Stock Price**
+**Time Series Forecasting with Yahoo Stock Price**
     *   Developed time series forecasting models using ARIMA, Prophet, and LSTM to predict Yahoo stock prices.
         *  **Skills Used**: Time Series Analysis, Time Series Forecasting, Prophet, LSTM, ARIMA
     *  [Deployment Demo](https://github.com/EmadAliEmad/Yahoo_Stock_Price_Prediction_with_deployment)
 
-3.  **Wind Field Estimation From Sentinel-1 Images Using Deep Learning CNN (Graduation Project)**
+**Wind Field Estimation From Sentinel-1 Images Using Deep Learning CNN (Graduation Project)**
     *  Developed a CNN-based model to extract features from SAR images and estimate wind fields, outperforming traditional methods.
          *  **Skills Used**: Deep Learning, CNN, Computer Vision, Python
     *   [GitHub Link](https://github.com/EmadAliEmad/Graduation_Project)
 
-4.  **Investigating Netflix Movies and Guest Stars in The Office**
+**Investigating Netflix Movies and Guest Stars in The Office**
     *  Analyzed Netflix's growth and decline in average movie durations using Python and Pandas.
          * **Skills Used**:  Python, Dictionaries & Pandas
     * [GitHub Link](https://github.com/EmadAliEmad/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
   
-5.  **AGL Machine Operating Time Forecasting**
+**AGL Machine Operating Time Forecasting**
     * An application that forecasts the operating time of port terminal machines using time series forecasting.
     * It provides a REST API to get the predictions and outputs an image with the graphs using Python, FastAPI, pandas, numpy, scikit-learn, matplotlib, and seaborn.
     *  **Skills Used:** Python, FastAPI, Time Series Forecasting, Machine Learning, REST API, Data Visualization
