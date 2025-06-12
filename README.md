@@ -4,7 +4,7 @@ ML Engineer | Data Scientist | AI Researcher | Data Analyst
 
 ## Summary
 
-A highly motivated and skilled Junior Machine Learning Engineer and Data Scientist with a strong foundation in AI and cloud computing. I hold a Bachelor's in Computer Science and Artificial Intelligence from Helwan University. I have gained practical experience through roles such as a Data Scientist Intern at CORELIA and by participating in the Digital Egypt Builders Initiative (DEBI). My technical expertise includes time series analysis and forecasting, deep learning, machine learning, SQL, cloud computing (Microsoft Azure, AWS), data analysis, Python, Docker, and LLMs. I am passionate about leveraging my skills to create impactful solutions in real-world AI applications. I am proficient in both English and Arabic and actively participate in data science communities, mentoring juniors, and continually expanding my knowledge.
+A highly motivated and skilled Machine Learning Engineer and Data Scientist with a strong foundation in AI and cloud computing. I hold a Bachelor's in Computer Science and Artificial Intelligence from Helwan University. I have gained practical experience through roles such as a Data Scientist Intern at CORELIA and by participating in the Digital Egypt Builders Initiative (DEBI). My technical expertise includes time series analysis and forecasting, deep learning, machine learning, SQL, cloud computing (Microsoft Azure, AWS), data analysis, Python, Docker, and LLMs. I am passionate about leveraging my skills to create impactful solutions in real-world AI applications. I am proficient in both English and Arabic and actively participate in data science communities, mentoring juniors, and continually expanding my knowledge.
 
 ## Portfolio
 
