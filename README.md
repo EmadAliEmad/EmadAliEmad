@@ -28,9 +28,6 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
   * Completed industry-certified courses on Coursera, gained Microsoft Azure training, and engaged in practical projects.
   * Gained applied experience through a Data Science internship at CORELIA, enhancing technical and business acumen.
 
-*   **Digital Egypt Builders Initiative - DEBI** - Qesm El Zamalek, Cairo, Egypt (January 2024 - Present)
-    *   Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing. 
-    *   The program included coursework on Coursera, Microsoft Azure training, and practical experience via a Data Science Internship at CORELIA.
 
 *   **Data Scientist Intern** - CORELIA, Cairo, Egypt (July 2024 - October 2024)
     *   Gained hands-on experience in time series analysis and forecasting, deep learning, and applying advanced analytical techniques to solve complex real-world business challenges. Worked on multiple high-impact projects.
