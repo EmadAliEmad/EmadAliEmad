@@ -38,6 +38,14 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
 *   **Data Scientist Intern** - CORELIA, Cairo, Egypt (July 2024 - October 2024)
     *   Gained hands-on experience in time series analysis and forecasting, deep learning, and applying advanced analytical techniques to solve complex real-world business challenges. Worked on multiple high-impact projects.
 
+
+*   **Code Reviewer** - Remotasks, Freelance (Nov 2023 - Jun 2024)
+    *   I reviewed and trained AI chatbot models to improve their effectiveness and reliability by applying advanced analytical techniques
+      and machine learning best practices, contributing to the development of robust AI solutions that meet industry standards.
+ 
+       
+ 
+
 ## Top Projects
 
 * **BERT Fine-tuning for Movie Sentiment Analysis**
