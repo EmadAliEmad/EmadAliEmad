@@ -22,6 +22,12 @@ A passionate and results-driven Machine Learning Engineer and Data Scientist wit
   * Provide mentorship and technical guidance to trainees, supporting their growth in AI and programming.
   * Collaborate with the academic team to improve curriculum and ensure high-quality learning experiences.
 
+* **Summer Intern** – AD VALUE, Qesm El Maadi, Cairo, Egypt (08-2025 – 09-2025)
+
+  * During this internship, I conducted comprehensive market and competitive analysis for key clients.
+  * My work involved identifying key market gaps in digital engagement and AI adoption.
+  * I developed strategic recommendations for implementing AI-powered solutions to improve customer satisfaction and gain a competitive edge.
+    
 * **Digital Egypt Builders Initiative (DEBI)** – Qesm El Zamalek, Cairo, Egypt (January 2024 – Present)
 
   * Participated in a comprehensive scholarship program on Data Science, Artificial Intelligence, and Cloud Computing.
